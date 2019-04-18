@@ -1,0 +1,50 @@
+[
+ {
+    "id": "1",
+    "label": "University of Cape Town",
+    "shortLable": "UCT",
+    "type": "uni",
+ },
+ {
+    "id": "2",
+    "label": "University of Pretoria",
+    "shortLable": "UP",
+    "type": "uni",
+ },
+ {
+    "id": "3",
+    "label": "University of Johannesburg",
+    "shortLable": "UJ",
+    "type": "uni",
+ },
+ {
+    "id": "4",
+    "label": "University of Witswatersrand",
+    "shortLable": "Wits",
+    "type": "uni",
+ },
+ {
+    "id": "5",
+    "label": "University of Western Cape",
+    "shortLable": "UWC",
+    "type": "uni",
+ },
+ {
+    "id": "6",
+    "label": "Cape Town",
+    "shortLable": "CPT",
+    "type": "location",
+ },
+ {
+    "id": "7",
+    "label": "Johannesburg",
+    "shortLable": "JHB",
+    "type": "location",
+ },
+ {
+    "id": "8",
+    "label": "Pretoria",
+    "shortLable": "PTA",
+    "type": "location",
+ },
+]
