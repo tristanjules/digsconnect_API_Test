@@ -1,50 +1,50 @@
 [
- {
-    "id": "1",
-    "label": "University of Cape Town",
-    "shortLabel": "UCT",
-    "type": "uni",
- },
- {
-    "id": "2",
-    "label": "University of Pretoria",
-    "shortLabel": "UP",
-    "type": "uni",
- },
- {
-    "id": "3",
-    "label": "University of Johannesburg",
-    "shortLabel": "UJ",
-    "type": "uni",
- },
- {
-    "id": "4",
-    "label": "University of Witswatersrand",
-    "shortLabel": "Wits",
-    "type": "uni",
- },
- {
-    "id": "5",
-    "label": "University of Western Cape",
-    "shortLabel": "UWC",
-    "type": "uni",
- },
- {
-    "id": "6",
-    "label": "Cape Town",
-    "shortLablel": "CPT",
-    "type": "location",
- },
- {
-    "id": "7",
-    "label": "Johannesburg",
-    "shortLabel": "JHB",
-    "type": "location",
- },
- {
-    "id": "8",
-    "label": "Pretoria",
-    "shortLabel": "PTA",
-    "type": "location",
- },
-]
+    {
+       "id": "1",
+       "label": "University of Cape Town",
+       "shortLabel": "UCT",
+       "type": "uni"
+    },
+    {
+       "id": "2",
+       "label": "University of Pretoria",
+       "shortLabel": "UP",
+       "type": "uni"
+    },
+    {
+       "id": "3",
+       "label": "University of Johannesburg",
+       "shortLabel": "UJ",
+       "type": "uni"
+    },
+    {
+       "id": "4",
+       "label": "University of Witswatersrand",
+       "shortLabel": "Wits",
+       "type": "uni"
+    },
+    {
+       "id": "5",
+       "label": "University of Western Cape",
+       "shortLabel": "UWC",
+       "type": "uni"
+    },
+    {
+       "id": "6",
+       "label": "Cape Town",
+       "shortLablel": "CPT",
+       "type": "location"
+    },
+    {
+       "id": "7",
+       "label": "Johannesburg",
+       "shortLabel": "JHB",
+       "type": "location"
+    },
+    {
+       "id": "8",
+       "label": "Pretoria",
+       "shortLabel": "PTA",
+       "type": "location"
+    }
+   ]
